@@ -20,6 +20,18 @@ Etre capable de compiler un programme C++
 	]
 	~~~
 
+	Jeffrey
+	~~~cpp
+	#include <iostream>
+	#include <cstdlib>
+	using namespace std;
+
+	int main () {
+	    cout << "Programme à corriger" << endl;
+	    return EXIT_SUCCESS;
+	}
+	~~~
+
 	<details>
 	<summary>solution</summary>
 	
